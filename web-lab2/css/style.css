@@ -1,0 +1,114 @@
+.fa {  
+  padding: 15px;  
+  text-align: center;  
+  margin: 5px 2px;  
+  font-size: 30px;  
+  width: 18px;  
+  border-radius: 50%;
+}  
+
+.fa-facebook {  
+  text-decoration: none;
+  background: #3B5998;  
+  color: white;  
+}  
+
+.fa-twitter {  
+  background: #55ACEE;  
+  color: white;  
+  text-decoration: none;
+}  
+
+.fa-google {  
+  background: #dd4b39;  
+  color: white;  
+  text-decoration: none;
+}  
+/* -------------------------------------------------------------------*/
+
+.all {
+        width: 320px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 80px;
+        background: white;
+        border-radius: 15px ;
+        font-family: "Roboto", sans-serif;
+        position: relative;
+        left: 290px;
+        bottom: 430px;
+        }
+
+        #Uname{
+          width: 300px;
+          height: 55px;
+          border: none;
+          border-radius: 6px;
+          padding-left: 8px;
+          background-color: 	rgb(240,240,240);
+          margin-bottom: 1px;
+
+      }
+      
+       #Pass{
+        width: 300px;
+        height: 55px;
+        border: none;
+        border-radius: 6px;
+        padding-left: 8px;
+        background-color: 	rgb(240,240,240);
+        margin-bottom: 20px;
+    }
+
+    #log{
+      width: 305px;
+      height: 48px;
+      border: none;
+      border-radius: 4px;
+      padding-left: 7px;
+      background-color:  rgb(109, 122, 236);
+      color: white;
+      margin-top: 20px;
+      margin-bottom: 15px;
+      position: relative;
+  
+  }
+
+  span{
+    font-size: 17px;
+}
+
+.forgotpassword {
+  float: right;
+  color: grey;
+  font-size: 14px;
+}
+
+p{
+  margin-top: 5px;
+  color: grey;
+}
+
+span {
+  font-size: 15px;
+  color: gray;
+}
+
+h5 {
+  margin-top: 8px;
+  color: lightgrey;    
+  font-weight: lighter;
+}
+
+h2 {
+  font-weight: lighter;
+}
+
+img {
+  width: 33%;
+  height: 30%;
+  position: relative;
+  left: 250px;
+  top: 140px;
+}
